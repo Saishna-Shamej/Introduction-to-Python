@@ -1,0 +1,37 @@
+fruits = ['apple', 'banana', 'cherry']
+fruits.append("orange")
+print(fruits)
+print()
+fruits.clear()
+print(fruits)
+print()
+fruits = ['apple', 'banana', 'cherry','apple']
+x = fruits.copy()
+print(x)
+print()
+y = fruits.count("apple")
+print(y)
+print()
+fruits = ['apple', 'banana', 'cherry']
+animals = ['cow', 'lion', 'tiger']
+fruits.extend(animals)
+print(fruits)
+print()
+x = fruits.index("banana")
+print(x)
+fruits.insert(2, 'orange')
+print(fruits)
+print()
+fruits.pop(4)
+print(fruits)
+print()
+fruits = ['apple', 'banana', 'cherry']
+fruits.remove("banana")
+print(fruits)
+print()
+fruits = ['apple', 'banana', 'cherry']
+fruits.reverse()
+print(fruits)
+print()
+fruits.sort()
+print(fruits)
