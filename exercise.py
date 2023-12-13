@@ -1,14 +1,27 @@
-
-#add two numbers
-def my_function(x):
-    return 1 + x
-print(my_function(3))
+txt = "weLcome to Python"
+print(txt.upper())
 print()
 
-#area of circle
-def my_function(r):
-    return 3.14 * r * r
-print(my_function(3))
+print(txt.lower())
 print()
 
+print(txt.capitalize())
+print()
 
+print(txt.swapcase())
+print()
+
+print(len(txt))
+print()
+
+print(txt[1:17])
+print()
+
+print("Python" in txt)
+print()
+
+print(txt.replace("Python" ,"Programming"))
+print()
+
+print(txt[12])
+print()

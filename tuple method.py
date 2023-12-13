@@ -1,0 +1,7 @@
+thistuple = (1, 3, 6, 8, 7, 6, 4, 6, 8, 5)
+x = thistuple.count(6)
+print(x)
+print()
+thistuple = (1, 3, 6, 8, 7, 6, 4, 6, 8, 5)
+x = thistuple.index(7)
+print(x)
