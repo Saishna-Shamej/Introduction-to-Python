@@ -1,0 +1,6 @@
+print("Hello world")
+print("Saishna")
+print("Samanuaya(H)")
+print("(PO)Kadirur")
+print("Thalassery")
+print("Age:21")
